@@ -8,3 +8,5 @@ else it will give error in output log file generated every time.
 # Running the tool
 go to tool folder using terminal and type  <strong>python Dependency_tool.py</strong> 
 
+#angel_quiz inside pic  click raw file to download and view
+
